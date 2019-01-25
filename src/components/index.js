@@ -6,7 +6,6 @@ class Index extends Component {
     constructor(props) {
         super(props);
         this.state = { count: 0 };
-        this.addCount = this.addCount.bind(this);
     }
     
 
